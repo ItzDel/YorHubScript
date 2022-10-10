@@ -1,0 +1,2 @@
+# YorHubScript
+Script For LoadString
